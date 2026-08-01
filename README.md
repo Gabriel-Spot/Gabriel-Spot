@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](.github/metrics_renders/github-metrics.svg)
+![Metrics](github-metrics.svg)
