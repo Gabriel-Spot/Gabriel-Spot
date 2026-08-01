@@ -11,6 +11,7 @@ jobs:
         with:
           token: ${{ secrets.GABRIEL_TOKEN }}
           user: Gabriel-Spot
+          filename: github-metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           
