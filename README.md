@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, tudo bem? 👋
 
 <!--
 **Gabriel-Spot/Gabriel-Spot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
